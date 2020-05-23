@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "caio0706",
+    "database": "eventfull_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "or7jnrjkjyh3vgl7",
+    "password": "eaqzr90gmbf6ykf7",
+    "database": "pzybogs7iq5b3n5h",
+    "host": "izm96dhhnwr2ieg0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
